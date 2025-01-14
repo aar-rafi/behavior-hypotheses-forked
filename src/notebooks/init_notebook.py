@@ -5,7 +5,9 @@ try:
 except ValueError: # Already removed
     pass
 
-projectFolder = "/home/torr20/Documents/project-autonomous vehicle/behavior-hypotheses/src"
+# projectFolder = "/home/torr20/Documents/project-autonomous vehicle/behavior-hypotheses/src"
+
+projectFolder = "/media/torr20/New Volume F/project-autonomous vehicle/behavior-hypotheses/src"
 # projectFolder = 'D:\\AV\\Code\\behavior-hypotheses\\src'
 # projectFolder = 'F:/behavior-hypothesis/src'
 sys.path.append(str(projectFolder))

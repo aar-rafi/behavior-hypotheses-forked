@@ -9,4 +9,5 @@ conda install --file requirements.txt
 ```bash
 pip install tti_dataset_tools
 pip install shapely==1.8.5
+pip install vg
 ```
